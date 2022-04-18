@@ -61,9 +61,6 @@ def turtle_fence():
     turtle.left(90)
     turtle.forward(15)
 
-def turtle_rounding_big():
-    turtle.forward(1)
-    turtle.left(1)
 
 def turtle_sun():
     for q in range(10):
